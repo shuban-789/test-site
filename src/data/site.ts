@@ -12,22 +12,22 @@ export const home = {
     "A team of high school students from San Diego, California, who compete in the FIRST Tech Challenge Robotics Competition.",
   features: [
     {
-      title: "All Frameworks",
-      description: "🎭 React, Vue, Svelte, Solid - use them all together",
+      title: "High-performance Engineering and Design",
+      description: "⚙️ We design and build robots that are as effective as they are efficient.",
     },
     {
-      title: "Best Practices",
-      description: "✨ Modern design patterns & optimized performance",
+      title: "Cutting Edge Software Solutions",
+      description: "👾 We create innovative and practical software, whether to optimize our robot's performance or to benefit the community.",
     },
     {
-      title: "Ready to Use",
-      description: "🚀 Pre-built components for each framework",
+      title: "Impactful Outreach",
+      description: "🌍 We are dedicated to spreading the message of FIRST and STEM to our community.",
     },
   ],
   stats: [
     {
       value: "5+",
-      label: "Frameworks",
+      label: "Years of Experience",
     },
     {
       value: "10+",
@@ -35,7 +35,7 @@ export const home = {
     },
     {
       value: "99",
-      label: "Performance Score",
+      label: "Communities Impacted",
     },
   ],
 };
