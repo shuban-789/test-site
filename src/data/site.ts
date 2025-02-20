@@ -6,10 +6,10 @@ export const siteConfig = {
 };
 
 export const home = {
-  title: "One Template\nEvery Framework",
-  subtitle: "Ultimate Astro Template",
+  title: "Gear Up",
+  subtitle: "Team 12499",
   description:
-    "Discover the power of multi-framework development with our ultimate Astro template. From React to Vue, Svelte to Solid - experience them all in one blazing-fast website.",
+    "A team of high school students from San Diego, California, who compete in the FIRST Tech Challenge Robotics Competition.",
   features: [
     {
       title: "All Frameworks",
@@ -31,7 +31,7 @@ export const home = {
     },
     {
       value: "10+",
-      label: "Components",
+      label: "Awards",
     },
     {
       value: "99",
