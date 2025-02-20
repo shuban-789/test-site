@@ -1,7 +1,7 @@
 export interface Framework {
     name: string;
     displayName: string;
-    path: string;
+    path: string | URL;
     color: string;
 }
 
