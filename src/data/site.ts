@@ -17,7 +17,7 @@ export const home = {
     },
     {
       title: "Cutting Edge Software",
-      description: "👾 We create practical software, to optimize our robot's performance and benefit the community.",
+      description: "👾 We create innovative and practical software to optimize our robot's performance",
     },
     {
       title: "Impactful Outreach",
