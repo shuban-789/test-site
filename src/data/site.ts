@@ -12,7 +12,7 @@ export const home = {
     "A team of high school students from San Diego, California, who compete in the FIRST Tech Challenge Robotics Competition.",
   features: [
     {
-      title: "High-performance Design",
+      title: "Powerful Design",
       description: "⚙️ We design and build robots that are as effective as they are efficient.",
     },
     {
