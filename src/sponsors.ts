@@ -1,17 +1,17 @@
 export const sponsors = [
     {
         name: "Leidos",
-        logo: "sponsors/image19.png",
+        logo: "sponsors/leidos.png",
         url: "https://www.leidos.com/",
     },
     {
-        name: "Rise",
-        logo: "sponsors/image23.png",
-        url: "https://www.rise4steam.org/",
+        name: "Qualcomm",
+        logo: "sponsors/qualcomm.png",
+        url: "https://www.qualcomm.com/",
     },
     {
-        name: "Qualcomm",
-        logo: "sponsors/image39.png",
-        url: "https://www.qualcomm.com/",
+        name: "ASML",
+        logo: "sponsors/asml.png",
+        url: "https://www.asml.com/en",
     }
 ];
