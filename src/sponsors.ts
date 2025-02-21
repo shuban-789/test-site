@@ -13,5 +13,20 @@ export const sponsors = [
         name: "ASML",
         logo: "sponsors/asml.png",
         url: "https://www.asml.com/en",
-    }
+    },
+    {
+        name: "HP",
+        logo: "sponsors/hp.png",
+        url: "https://www.hp.com/us-en/home.html",
+    },
+    {
+        name: "ICE",
+        logo: "sponsors/ice.png",
+        url: "https://www.ice.com/index",
+    },
+    {
+        name: "goBILDA",
+        logo: "sponsors/gobilda.png",
+        url: "https://www.gobilda.com/",
+    },
 ];
